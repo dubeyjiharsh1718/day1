@@ -1,0 +1,125 @@
+30
+30
+152003
+125.55
+Harsh
+true
+null
+undefined
+[object Object]
+210
+190
+2000
+20
+0
+false
+true
+true
+false
+false
+true
+false
+Harsh Dubey
+My self Harsh Dubey! I am 20 years old.
+Final price for a regular user: $90
+x is less than 5
+0
+1
+2
+3
+4
+5
+6
+0
+1
+2
+3
+4
+5
+6
+0
+1
+2
+3
+4
+5
+6
+Hello, Harsh
+Hello, Dubeyji
+Hello, harsh
+65
+5 * 1 = 5
+5 * 2 = 10
+5 * 3 = 15
+5 * 4 = 20
+5 * 5 = 25
+5 * 6 = 30
+5 * 7 = 35
+5 * 8 = 40
+5 * 9 = 45
+5 * 10 = 50
+Factorial of 5 is 120
+Result after applying the function 3 times: 16
+HArsh
+Dubey
+20
+red
+green
+blue
+[ 'red', 'green', 'blue' ]
+[ 'red', 'purple', 'blue' ]
+[ 25, 30, 18, 35 ]
+The Great Gatsby
+F. Scott Fitzgerald
+180
+[
+  { title: 'Book B', author: 'Author B', pages: 150 },
+  { title: 'Book A', author: 'Author A', pages: 200 },
+  { title: 'Book C', author: 'Author C', pages: 300 }
+]
+Original Array: [
+  1, 2, 3, 4,  5,
+  6, 7, 8, 9, 10
+]
+Doubled Numbers: [
+   2,  4,  6,  8, 10,
+  12, 14, 16, 18, 20
+]
+Even Numbers: [ 2, 4, 6, 8, 10 ]
+162
+Hello, Harsh!
+1
+2
+3
+1
+2
+1
+2
+3
+3
+[ 1, 2, 3, 4, 5 ]
+[ 'apple', 'banana', 'orange' ]
+[ 1, 2, 3, 4, 5 ]
+[ 'apple', 'banana', 'orange' ]
+[
+  { id: 1, name: 'Alice' },
+  { id: 2, name: 'Bob' },
+  { id: 1, name: 'Alice' }
+]
+[
+  { key: 'A', value: 1 },
+  { key: 'B', value: 2 },
+  { key: 'A', value: 1 }
+]
+
+
+
+
+
+
+
+
+
+
+
+
